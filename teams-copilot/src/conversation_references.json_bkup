@@ -1,0 +1,40 @@
+{
+  "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg": {
+    "channel_id": "msteams",
+    "user": {
+      "id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+      "name": "Srivatsa C"
+    },
+    "bot": {
+      "id": "28:8f824444-628e-476e-b431-357a4c75b5dc",
+      "name": "teams-copilot"
+    },
+    "conversation": {
+      "id": "a:135ZM7EhdI_LlqPPbHpZAjp64IFo13GaQF5KHqJjQBXKMgio1I8Qut9dkQuhxhLsMidEY9DZQ62mZbYM10ImDmCpxLML1H49TMjxJB4PTOrqY9VoWb2GrS6-cp-iikWis",
+      "name": null,
+      "conversation_type": "personal",
+      "tenant_id": null
+    },
+    "activity_id": "1752791660160",
+    "service_url": "https://smba.trafficmanager.net/amer/30672aed-987e-4b79-953a-62da1688bdb4/"
+  },
+  "Srivatsa C": {
+    "channel_id": "msteams",
+    "user": {
+      "id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+      "name": "Srivatsa C"
+    },
+    "bot": {
+      "id": "28:8f824444-628e-476e-b431-357a4c75b5dc",
+      "name": "teams-copilot"
+    },
+    "conversation": {
+      "id": "a:135ZM7EhdI_LlqPPbHpZAjp64IFo13GaQF5KHqJjQBXKMgio1I8Qut9dkQuhxhLsMidEY9DZQ62mZbYM10ImDmCpxLML1H49TMjxJB4PTOrqY9VoWb2GrS6-cp-iikWis",
+      "name": null,
+      "conversation_type": "personal",
+      "tenant_id": null
+    },
+    "activity_id": "1752791660160",
+    "service_url": "https://smba.trafficmanager.net/amer/30672aed-987e-4b79-953a-62da1688bdb4/"
+  }
+}

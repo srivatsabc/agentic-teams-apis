@@ -35,5 +35,21 @@
                 "title"
             ]
         }
+    },
+    {
+        "name": "searchWeb",
+        "description": "Search the web for current information, news, facts, or answers to questions",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "query": {
+                    "type": "string",
+                    "description": "The search query to look up on the web"
+                }
+            },
+            "required": [
+                "query"
+            ]
+        }
     }
 ]

@@ -18,8 +18,8 @@
         "full": "full name for teams-copilot"
     },
     "description": {
-        "short": "short description for teams-copilot",
-        "full": "full description for teams-copilot"
+        "short": "AI assistant for task management and chat",
+        "full": "An AI-powered assistant that can help manage tasks and participate in conversations across personal chats, group chats, and teams"
     },
     "accentColor": "#FFFFFF",
     "bots": [
@@ -35,16 +35,36 @@
             "commandLists": [
                 {
                     "scopes": [
-                        "personal"
+                        "personal",
+                        "groupChat"
                     ],
                     "commands": [
                         {
-                            "title": "Create task:remind drink tonight",
+                            "title": "Create task: remind drink tonight",
                             "description": "Create a task for me to remind me drink water tonight"
                         },
                         {
                             "title": "Delete all my current tasks",
                             "description": "Delete all my current tasks"
+                        },
+                        {
+                            "title": "Help",
+                            "description": "Get help with using this assistant"
+                        }
+                    ]
+                },
+                {
+                    "scopes": [
+                        "team"
+                    ],
+                    "commands": [
+                        {
+                            "title": "Create task: remind drink tonight",
+                            "description": "Create a task for me to remind me drink water tonight"
+                        },
+                        {
+                            "title": "Help",
+                            "description": "Get help with using this assistant"
                         }
                     ]
                 }
