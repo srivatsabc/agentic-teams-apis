@@ -14,14 +14,17 @@ logger, log_blue, log_green, log_yellow, log_red, log_cyan = get_agent_logger("T
 class AppConversationState(ConversationState):
     tasks: Dict[str, Any] = None
     proactive_messages: List[Dict[str, Any]] = None
+    current_incident: Dict[str, Any] = None  # NEW: Track current incident
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        # Ensure proactive_messages is always a list, never None
+        # Ensure all fields are always initialized properly
         if self.proactive_messages is None:
             self.proactive_messages = []
         if self.tasks is None:
             self.tasks = {}
+        if self.current_incident is None:
+            self.current_incident = {}
 
     @classmethod
     async def load(cls, context: TurnContext, storage: Optional[Storage] = None) -> "AppConversationState":
@@ -31,11 +34,13 @@ class AppConversationState(ConversationState):
             state = await super().load(context, storage)
             instance = cls(**state)
             
-            # Ensure proactive_messages is always a list
+            # Ensure all fields are always initialized
             if instance.proactive_messages is None:
                 instance.proactive_messages = []
             if instance.tasks is None:
                 instance.tasks = {}
+            if instance.current_incident is None:
+                instance.current_incident = {}
             
             # Log tasks if they exist
             if instance.tasks:
@@ -53,6 +58,14 @@ class AppConversationState(ConversationState):
             else:
                 log_blue("💬 No proactive messages found in conversation state")
             
+            # Log current incident if exists
+            if instance.current_incident and instance.current_incident.get('incident_id'):
+                incident_id = instance.current_incident.get('incident_id')
+                last_updated = instance.current_incident.get('last_updated', 'Unknown')
+                log_blue(f"🎫 Current incident: {incident_id} (last updated: {last_updated})")
+            else:
+                log_blue("🎫 No current incident being tracked")
+            
             log_green("✅ Conversation state loaded successfully")
             return instance
             
@@ -61,7 +74,7 @@ class AppConversationState(ConversationState):
             raise
 
     def __setattr__(self, name: str, value: Any) -> None:
-        """Override setattr to log task changes"""
+        """Override setattr to log task and incident changes"""
         if name == 'tasks' and hasattr(self, 'tasks'):
             old_tasks = getattr(self, 'tasks', {}) or {}
             new_tasks = value or {}
@@ -81,6 +94,21 @@ class AppConversationState(ConversationState):
                 removed = set(old_tasks.keys()) - set(new_tasks.keys())
                 if removed:
                     log_yellow(f"  ➖ Removed: {', '.join(removed)}")
+        
+        elif name == 'current_incident' and hasattr(self, 'current_incident'):
+            old_incident = getattr(self, 'current_incident', {}) or {}
+            new_incident = value or {}
+            
+            # Log incident changes
+            if old_incident != new_incident:
+                log_cyan("🎫 Incident tracking state changed:")
+                old_id = old_incident.get('incident_id', 'None')
+                new_id = new_incident.get('incident_id', 'None')
+                log_blue(f"  Previous incident: {old_id}")
+                log_blue(f"  Current incident: {new_id}")
+                
+                if new_id != 'None':
+                    log_green(f"  🎯 Now tracking: {new_id}")
         
         super().__setattr__(name, value)
 
@@ -118,10 +146,20 @@ class AppTurnState(TurnState[AppConversationState, UserState, TempState]):
         
         return f"{len(self.conversation.tasks)} tasks: {', '.join(self.conversation.tasks.keys())}"
 
+    def get_incident_summary(self) -> str:
+        """Get a summary of current incident for logging"""
+        if not self.conversation.current_incident or not self.conversation.current_incident.get('incident_id'):
+            return "No incident being tracked"
+        
+        incident_id = self.conversation.current_incident.get('incident_id')
+        last_updated = self.conversation.current_incident.get('last_updated', 'Unknown time')
+        return f"Tracking {incident_id} (updated: {last_updated})"
+
     def log_state_summary(self):
         """Log a summary of the current state"""
         log_cyan("📊 State Summary:")
         log_blue(f"  Tasks: {self.get_tasks_summary()}")
+        log_blue(f"  Incident: {self.get_incident_summary()}")
         
         # Log task details if they exist
         if self.conversation.tasks:

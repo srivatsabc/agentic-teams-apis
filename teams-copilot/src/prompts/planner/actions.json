@@ -51,5 +51,26 @@
                 "query"
             ]
         }
+    },
+    {
+        "name": "checkIncidentStatus",
+        "description": "Check the status of an incident by calling the incident management API. Use this when users ask about incident status, mention incident IDs, or want updates on specific incidents.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "incident_id": {
+                    "type": "string",
+                    "description": "The incident ID to check (e.g., INC0012345, INC-001234)"
+                },
+                "query": {
+                    "type": "string",
+                    "description": "The user's specific question or query about the incident"
+                }
+            },
+            "required": [
+                "incident_id",
+                "query"
+            ]
+        }
     }
 ]

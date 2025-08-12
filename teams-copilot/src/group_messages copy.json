@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": "2025-07-27T04:49:20.2407582Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> -  what's the status of INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 00:49:20.744185",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T04:49:45.9903544Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 00:49:46.374525",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T04:55:45.1962066Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 00:55:45.920191",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T04:59:13.5732745Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 00:59:14.334040",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:01:57.5926177Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:01:57.936504",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:02:54.2802781Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "okay let me look into this issue ...",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:02:54.999725",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:03:38.5240785Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "let me reprocess the latest data to fix this issue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:03:39.709252",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:17:31.3452293Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "Hi <at>business_user</at>",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:17:32.045379",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:17:39.4327755Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:17:40.304268",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:22:51.4759496Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:22:51.854828",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:23:26.879893Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "Okay let me look into it ...",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:23:28.099719",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:23:39.996219Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "thank you",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:23:41.174970",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:23:51.9144194Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "keep me posted on what you find",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:23:52.512194",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:24:01.7952269Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "it would be great if we can fix it today",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:24:02.880807",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:26:14.0548137Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:26:14.848760",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:26:32.3534914Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "can you check if you have the required data now?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:26:33.356724",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:26:58.7465247Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "i'm happy .. you can close the issue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:26:59.902815",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:27:15.1398963Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "thank you",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:27:16.286542",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:27:22.738287Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "i'm closing this issuue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:27:23.441670",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:33:21.8563967Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:33:22.631921",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:33:44.1130367Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "okay let me look into this ...",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:33:44.752024",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:34:07.7993631Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocessed the data to fix the sync issue?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:34:09.023695",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:34:27.5569886Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "yes but do give me a root cause for this",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:34:28.239339",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:34:43.2781345Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:34:43.801442",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:34:51.2694614Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "can you check if you have the required data now?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:34:52.464803",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:35:22.9151824Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "should i close the ticket?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:35:24.067200",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:47:37.0534116Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:47:37.375655",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:47:56.2654158Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "okay let me look into this",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:47:56.985173",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:48:20.4190015Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "thank you",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:48:20.891266",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:48:29.8855784Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocess data?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:48:30.405625",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:49:00.1431859Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "yes but do give me a root cause for this\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:49:00.539148",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:49:19.6554709Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:49:20.580882",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:49:41.7507374Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "can i close the ticket?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:49:42.306220",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:51:52.1046491Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:51:52.762892",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:52:18.2579057Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "let me look into this ...",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:52:18.903009",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:52:31.5128782Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocess data?\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:52:32.210193",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:53:04.7988243Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:53:05.384208",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:53:39.7820021Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "i will have to check tomo's run to see if everything is fine and then tell you",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:53:40.396752",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:53:46.5279058Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay with this?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:53:47.058985",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:54:33.4882906Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "i'm okay with this .. but this is happening for the 2nd time in a row .. i need this fixed permenantly ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:54:34.581945",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:55:09.9979659Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "understood",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:55:10.560138",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:57:01.834978Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "How can i help?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:57:03.093992",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:57:31.6893695Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:57:32.131445",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:57:49.3732039Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "let me look into this",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:57:50.046732",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:58:05.0478863Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocessed the data?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:58:05.692839",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:58:18.1207838Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "should i send it now?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:58:18.669214",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T05:58:29.5929392Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 01:58:30.187513",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:01:43.3113859Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:01:43.693033",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:02:16.0967248Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "let me look into this",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:02:17.249653",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:02:22.2998484Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocessed the data?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:02:22.671530",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:02:27.1054105Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:02:27.497696",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:02:36.013333Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "can i close the ticket?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:02:37.200202",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:02:53.6985449Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "i'm okay with this .. but this is happening for the 2nd time in a row .. i need this fixed permenantly \r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:02:54.101024",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:04:13.3893526Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:04:14.103115",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:04:36.1473532Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "let me look into this\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:04:37.159852",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:04:42.6693582Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "are you okay if i reprocessed the data?\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:04:43.391672",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:04:46.8151279Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have reprocessed the data to fix the synchronization issue .. looks like a bug in the app that does detect holiday's and rejects the required data",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:04:46.851884",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:05:00.4439351Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "can i close the ticket?\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:05:01.657562",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T06:05:12.3024294Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "i'm okay with this .. but this is happening for the 2nd time in a row .. i need this fixed permenantly \r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 02:05:13.137522",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:02:27.5543336Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:02:28.285166",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:04:09.4937932Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:04:09.351674",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:06:27.9366934Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0012345?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:06:27.962066",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:06:58.6474986Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "Okay i will look into this issue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:06:59.590871",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:08:10.5204895Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "this is definitely a sync problem between HASP and SAP .... do you want me to resend the data?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:08:11.666202",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:09:15.2835739Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "but i'm not happy that this issue is happening over and over again .. i need the root cause found ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:09:16.232009",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:09:42.9166523Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "i have resent the data you can check .... now i'm checking the root cause",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:09:43.352961",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T18:10:18.2796525Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "looks like an application issue that the yesterday's run failed owing to a problem detecting holidays ... hence the sync issue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 14:10:18.422831",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T20:35:30.6511425Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 16:35:30.964275",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T20:37:25.661515Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 16:37:26.310922",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T20:56:26.7153232Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 16:56:27.339557",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T20:58:17.0883425Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I will look into this ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 16:58:17.721556",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T20:58:57.9437109Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "but i'm not happy that this issue is happening over and over again .. i need the root cause found .. processing the file again is not the solution",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 16:58:59.195214",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:00:55.9495769Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "i understand ... ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:00:57.334760",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:01:20.7355098Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "looks like an application issue that the yesterday's run failed owing to a problem detecting holidays ... hence the sync issue",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:01:21.443398",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:01:55.7369856Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "We might have to fix this issue over a problem ticket ... for now we have fixed the issue and kept the system under monitoring",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:01:56.177774",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:02:10.9028253Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "Please let me know if you are okay to close the ticket",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:02:11.843041",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:02:19.116212Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "ok",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:02:20.137474",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:19:59.6271945Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "I need your help",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:20:00.152155",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:20:30.7761305Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:20:31.057887",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:21:28.043392Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "Can i reprocess the file?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:21:28.711088",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:21:47.2852127Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "okay ... but i'm not happy that this issue is happening over and over again .. i need the root cause found .. processing the file again is not the solution\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:21:48.498950",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:22:49.3435106Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "looks like an application issue that the yesterday's run failed owing to a problem detecting holidays ... hence the sync issue\r\n  ... i have resent the data you can check .... now i'm checking the root cause .. We might have to fix this issue over a problem ticket ... for now we have fixed the issue and kept the system under monitoring .. Please let me know if you are okay to close the ticket\r\n \r\n \r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:22:50.126754",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T21:22:59.4472598Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "Fine",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 17:22:59.967383",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T22:43:59.5201743Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 18:43:59.988296",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T22:55:17.2523598Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 18:55:17.693567",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T22:57:32.9035673Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 18:57:33.080960",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T22:58:52.2615666Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 18:58:52.404749",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:01:15.2938771Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:01:15.997528",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:03:15.4635848Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010115?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:03:15.661331",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:03:52.8465732Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010115 incident?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:03:53.247880",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:07:47.3405449Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:07:47.624415",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:11:56.5062296Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:11:56.907032",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:14:11.7337827Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:14:12.030487",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-27T23:17:10.2139927Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 19:17:10.656690",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:31:12.5040274Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010116?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:31:13.213385",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:34:58.0354921Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010117?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:34:58.646729",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:36:00.5541046Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "okay .. let me look into it ... do you want me to resend the data as per the email?",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:36:01.443316",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:36:37.6396028Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "I have resent the failed data ... looks like an application issue that the yesterday's run failed owing to a problem detecting holidays ... hence the sync issue\r\n  ... i have resent the data you can check .... now i'm checking the root cause .. We might have to fix this issue over a problem ticket ... for now we have fixed the issue and kept the system under monitoring .. Please let me know if you are okay to close the ticket",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:36:39.118978",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:37:00.7006458Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "okay ... but i'm not happy that this issue is happening over and over again .. i need the root cause found .. processing the file again is not the solution\r\n ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:37:01.696550",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-07-28T01:37:13.7289204Z",
+    "user_name": "Srivatsa C",
+    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
+    "message": "thank you",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-07-27 21:37:14.493649",
+    "type": "group_chat_message"
+  }
+]
