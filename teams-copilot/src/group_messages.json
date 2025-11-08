@@ -1,83 +1,92 @@
 [
   {
-    "timestamp": "2025-07-30T02:56:16.5330558Z",
+    "timestamp": "2025-08-15T16:05:39.6055126Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "Can you please give us specifics before we move forward?",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010141? ",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:56:17.367957",
+    "recorded_at": "2025-08-15 12:05:38.453682",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:56:56.6926004Z",
+    "timestamp": "2025-08-15T16:06:17.5189483Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "It is important for us to know the details of the incident here ...",
+    "message": "okay i will look into this issue",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:56:56.996608",
+    "recorded_at": "2025-08-15 12:06:16.693476",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:57:33.7893257Z",
+    "timestamp": "2025-08-15T16:07:18.6852975Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "Some information about the missing PO's in the context of data sync issue will help",
+    "message": "After analysis, we realized that the last load that was received from VAX was on the 13th .... and nothing after that ....",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:57:35.237393",
+    "recorded_at": "2025-08-15 12:07:17.832543",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:58:19.5327293Z",
+    "timestamp": "2025-08-15T16:07:43.4740485Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010133?",
+    "message": "it looks like the VAX system was not able to transmit their data successfully ...",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:58:20.036856",
+    "recorded_at": "2025-08-15 12:07:43.210201",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:59:10.7226829Z",
-    "user_name": "Srivatsa C",
-    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "Can you please give us specifics before we move forward?",
+    "timestamp": "2025-08-15T16:08:22.4857463Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "So, is there nothing on your side that can alert us earlier? if such a thing happens?",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:59:11.196390",
+    "recorded_at": "2025-08-15 12:08:22.256363",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:59:18.8062709Z",
+    "timestamp": "2025-08-15T16:09:42.4701822Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "It is important for us to know the details of the incident here ...",
+    "message": "<at>teams-copilotlocal</at> - what is the status of INC0010141? ",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:59:19.169495",
+    "recorded_at": "2025-08-15 12:09:41.124211",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:59:23.9138968Z",
+    "timestamp": "2025-08-15T16:10:16.0762408Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "Some information about the missing PO's in the context of data sync issue will help\r\n ",
+    "message": "After analysis, we realized that the last load that was received from VAX was on the 13th .... and nothing after that .... it looks like the VAX system was not able to transmit their data successfully ...\r\n ",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:59:24.428728",
+    "recorded_at": "2025-08-15 12:10:14.928957",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T02:59:41.7311254Z",
+    "timestamp": "2025-08-15T16:10:33.6248056Z",
     "user_name": "Srivatsa C",
     "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "if you can provided this .. we can investigate the issue further",
+    "message": "Let me know if the ticket can be closed?",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 22:59:42.683022",
+    "recorded_at": "2025-08-15 12:10:32.453378",
     "type": "group_chat_message"
   },
   {
-    "timestamp": "2025-07-30T03:10:10.8388563Z",
-    "user_name": "Srivatsa C",
-    "user_id": "29:1pme9c94bxdR-bUBqJ5PFXFk7hoJlvAybFJ8WBjhx2e30EYQ15Dj1VP9hgmxAKmZw6nGhrIFnFqZD4izAk-L4Kg",
-    "message": "<at>teams-copilotlocal</at> - what is the status of incident INC0010133?",
+    "timestamp": "2025-08-15T16:10:49.9224612Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "So, is there nothing on your side that can alert us earlier? if such a thing happens?",
     "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
-    "recorded_at": "2025-07-29 23:10:11.363667",
+    "recorded_at": "2025-08-15 12:10:48.875950",
+    "type": "group_chat_message"
+  },
+  {
+    "timestamp": "2025-08-15T16:11:23.3550307Z",
+    "user_name": "business_user",
+    "user_id": "29:1wPY6uTz69UYZF_Cv9Gp9YkEDhKhMmiu5wJhZM1X9iLFyf4fId3eUGau4CLuehhFnuLMVV_2qwm0mR8lPgQl89w",
+    "message": "I think you should introduce a proper alerting mechanism .. for such scenarios .... you may close the ticket ",
+    "conversation_id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+    "recorded_at": "2025-08-15 12:11:22.219266",
     "type": "group_chat_message"
   }
 ]

@@ -10,12 +10,12 @@
       "name": "teams-copilot"
     },
     "conversation": {
-      "id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+      "id": "a:135ZM7EhdI_LlqPPbHpZAjp64IFo13GaQF5KHqJjQBXKMgio1I8Qut9dkQuhxhLsMidEY9DZQ62mZbYM10ImDmCpxLML1H49TMjxJB4PTOrqY9VoWb2GrS6-cp-iikWis",
       "name": null,
-      "conversation_type": "groupChat",
+      "conversation_type": "personal",
       "tenant_id": null
     },
-    "activity_id": "1753845010802",
+    "activity_id": "1762639951004",
     "service_url": "https://smba.trafficmanager.net/amer/30672aed-987e-4b79-953a-62da1688bdb4/"
   },
   "Srivatsa C": {
@@ -29,12 +29,12 @@
       "name": "teams-copilot"
     },
     "conversation": {
-      "id": "19:394f8441-8193-4935-b1a4-296e8159a86b_e7fcba4f-4265-4612-b6cc-13eda670597c@unq.gbl.spaces",
+      "id": "a:135ZM7EhdI_LlqPPbHpZAjp64IFo13GaQF5KHqJjQBXKMgio1I8Qut9dkQuhxhLsMidEY9DZQ62mZbYM10ImDmCpxLML1H49TMjxJB4PTOrqY9VoWb2GrS6-cp-iikWis",
       "name": null,
-      "conversation_type": "groupChat",
+      "conversation_type": "personal",
       "tenant_id": null
     },
-    "activity_id": "1753845010802",
+    "activity_id": "1762639951004",
     "service_url": "https://smba.trafficmanager.net/amer/30672aed-987e-4b79-953a-62da1688bdb4/"
   }
 }
